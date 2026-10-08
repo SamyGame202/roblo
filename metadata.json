@@ -1,0 +1,8 @@
+{
+  "name": "Remix Roblox Web - Discover, Create \u0026 Play",
+  "description": "Official web experience for Roblox: explore millions of immersive 3D games, customize your blocky avatar in real-time 3D, trade in the Marketplace, and jump straight into playable 3D games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
